@@ -16,7 +16,7 @@ function Button() {
   }
   return(
     <div class="App">
-    <img src={images[currentImageIndex]} alt="Duck" style={{width:"400px"}} />
+    <img src={images[currentImageIndex]} alt="Duck picture" style={{width:"400px"}} />
     <button onClick={Toggle} className="normalButton">
       Click here
     </button>
