@@ -1,0 +1,9 @@
+.normalButton {
+  padding: 20px;
+  color: white;
+  width: 200px;
+  background-color: rgb(170, 117, 167);
+  border-radius: 10px;
+  border-color: white;
+  font-size: 20px;
+}
